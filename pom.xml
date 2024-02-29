@@ -87,6 +87,11 @@
   </distributionManagement>
 
   <properties>
+         
+    <sonar.login>admin</sonar.login>
+    <sonar.password>op14092003</sonar.password> 
+
+         
     <!-- Java Usage -->
     <java.version>11</java.version>
     <java.release.version>11</java.release.version>
